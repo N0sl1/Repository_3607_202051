@@ -1,5 +1,7 @@
-
-int min () {
-  cout << "Hola Mundo" ;
-  return 0;
+namespace ejemplo1 {
+class program {
+static void Main (stream[]args){
+Console.Writeline("Hola Mundo");
+}
+}
 }
